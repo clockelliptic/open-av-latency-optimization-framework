@@ -1,3 +1,8 @@
+⚠️ Interesting, but not feasible in terms of hardware and energy constraints.
+
+
+---------
+
 ## Latency Optimization Framework
 
 This repository contains the research and accompanying code for **"Dynamic Optimization and Latency Management in Autonomous and Real-Time Systems."** The framework explores cutting-edge strategies to manage and optimize algorithmic and computational latency in high-performance, real-time systems, such as autonomous vehicles and cloud task systems.
